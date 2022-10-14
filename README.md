@@ -1,2 +1,2 @@
 # .github
-Organizaion's profile and config
+Organization's profile and config
